@@ -13,5 +13,5 @@
 # Türkce
 
 - 👋 Merhaba, ben Cem Kaplan
-- 👀 Backend ,A.I. oyun Developement yapmak istiyorum
+- 👀 Backend ,A.I. ve oyunlar yapmak istiyorum
 - 🌱 bu zamanda python ve biraz javascript ögreniyorum
