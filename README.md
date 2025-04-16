@@ -10,16 +10,16 @@
 
 - 👋 Hallo, bin Cem Kaplan
 - 👀 Ich interessiere mich für Backend, video-spiel und KI entwicklung
-- 🌱 Gerade lerne ich Python und JavaScript
+- 🌱 Python und C# Dev
 
 # English
 
 - 👋 Hi, I’m Cem Kaplan
 - 👀 I’m interested in Backend ,A.I. and game Development
-- 🌱 I’m currently learning python and a bit javascript
+- 🌱 Python and C# Dev
 
 # Türkce
 
 - 👋 Merhaba, ben Cem Kaplan
 - 👀 Backend ,A.I. ve oyunlar yapmak istiyorum
-- 🌱 bu zamanda python ve biraz javascript ögreniyorum
+- 🌱 Python ve C# Dev
