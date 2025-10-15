@@ -6,20 +6,8 @@
                                 |_|                  
 ```
 
-# Deutsch
-
-- 👋 Hallo, bin Cem Kaplan
-- 👀 Ich interessiere mich für Backend, video-spiel und KI entwicklung
-- 🌱 Python und C# Dev
-
 # English
 
 - 👋 Hi, I’m Cem Kaplan
 - 👀 I’m interested in Backend ,A.I. and game Development
-- 🌱 Python and C# Dev
-
-# Türkce
-
-- 👋 Merhaba, ben Cem Kaplan
-- 👀 Backend ,A.I. ve oyunlar yapmak istiyorum
-- 🌱 Python ve C# Dev
+- 🌱 Python and C++ Dev
