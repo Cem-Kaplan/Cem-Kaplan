@@ -10,4 +10,4 @@
 
 - 👋 Hi, I’m Cem Kaplan
 - 👀 I’m interested in Backend, A.I. and game Development
-- 🌱 C and C++ Dev
+- 🌱 C/C++, Python and Backend Dev
